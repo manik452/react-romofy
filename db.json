@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "openHour": {
+    "startHourtime": "Today 8.00 AM To 8.00 PM"
+  },
+  "auth": {
+    "data": {
+      "accessToken": "kldfglkerwhjnfgl",
+      "roles": 5150
+    }
+  },
+  "joke": {
+    "joke":"This is Joke"
+  }
+}
